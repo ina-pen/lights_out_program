@@ -1,0 +1,3 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="uase^A,uO,E[)Uzt`XZK">mass</variable><variable id="xh0xf.l4es%^evBE^EKh">x_lay</variable><variable id="b_@2w$!Q6Wr)Ga/y*dHG">push_count</variable><variable id=",Ug,b~0IiZ_;mqWY,.-Y">y_lay</variable><variable id="Ke{@@m~4D^@r+19C|zU9">count</variable><variable id="po?Tv2AY/9X#mgC!/=lw">count_x</variable><variable id="TFF~O9:8[1n4R_30C![z">count_y</variable><variable id="Hmpwo)}jm`BWZVu~~@qF">row</variable><variable id="$A54~Dk%?QPTS`7T*}Q)">random</variable><variable id="RZ7T%fLG6_ojMED5c_d-">random_x</variable><variable id="e6!_U*Lu|D{ffn.Mk4d}">random_y</variable></variables><comment id="wTpmoRM};jUST|jmJFk^" x="0" y="0" w="160" h="120">
+変数の用意
+</comment></xml>
